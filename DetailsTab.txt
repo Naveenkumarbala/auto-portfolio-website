@@ -1,0 +1,90 @@
+Details To be Entered in Webpage
+====================================
+
+Personal Details
+====================
+Anna Hathaway
+annahathaway@gmail.com
+www.annahathaway.com
++91 1234567890
+Web Developer
+17 STREET, ANGERI, INDIA
+I am a person who is positive about every aspect of life. There are many things I like to do, to see, and to experience. I like to read, I like to write; I like to think, I like to dream; I like to talk, I like to listen.
+
+
+Skills
+=============
+C/C++
+PYTHON
+JAVA
+HTML&CSS
+
+
+Hobbies
+==========
+Gaming
+Learning
+Reading
+Playing
+
+
+Education
+================
+
+Secondary
+----------
+2001
+2002
+CBSE
+Indian School
+Jaipur, Rajasthan
+
+Higher
+----------
+2002
+2004
+HSC
+Indian College
+Chennai, Tamilnadu
+
+Graduation
+----------------
+2004
+2008
+Indian University
+Mumbai, Maharastra
+
+
+
+Experience
+====================
+
+
+Present
+----------
+2014
+....
+Cyber Security Analyst
+CISCO
+Well its been a more than a year for me at Cisco. Amazing, Simply Fab. Except Google no company comes even closer to facilities and infra available at Cessna Campus. With every new building its getting heavenly.
+
+
+Primary
+---------
+2010
+2014
+AI Research Analyst
+GOOGLE
+Google has the kind of market capitalization that you might anticipate from one of the country's most powerful firms. Employees are transported to meetings by bicycles and electric cars, gaming centres, organic gardens, and environmentally-friendly furnishings. Google aims to improve its employees' lives and is still looking for new ways to improve their health, well-being, and morale.
+
+
+Secondary
+---------
+2008
+2010
+Software Developer
+ACCENTURE
+Accenture is very flexible in terms of office timing, unlike TCS and other biggies they don't track you how much time you spent in the office. But managers can ask you to complete your 9 hours and they are really bothered about deliverables.
+
+
+
